@@ -1,4 +1,4 @@
-# ATMOS - Aplicación del Clima
+# ATMOS - Aplicación del Clima 
 
 > Aplicación web moderna desarrollada en Vue 3 que ofrece el pronóstico del tiempo en distintas ciudades de Chile, integrada con un sistema de autenticación, gestión de estado global mediante Vuex y personalización de preferencias de usuario.
 
@@ -43,6 +43,51 @@ La arquitectura SPA utiliza **Vue Router** para gestionar la navegación y prote
 
 Sigue estos pasos para clonar y ejecutar el entorno de desarrollo localmente:
 
-1. Clonar el repositorio:
+1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/the-spell-of-mathematics/weather-frontend-m7.git](https://github.com/the-spell-of-mathematics/weather-frontend-m7.git)
+
+```
+
+2. **Entrar a la carpeta del proyecto:**
+```bash
+cd weather-frontend-m7
+
+```
+
+
+3. **Instalar dependencias:**
+```bash
+npm install
+
+```
+
+
+4. **Ejecutar el servidor de desarrollo:**
+```bash
+npm run dev
+
+```
+
+
+
+> **Credenciales de prueba para el Login:**
+> * Correo: `demo@clima.cl`
+> * Contraseña: `123`
+> 
+> 
+
+---
+
+### Enlace al Repositorio
+
+Puedes revisar el código fuente completo, la estructura de componentes y el historial de commits detallados en el siguiente enlace:
+👉 [Repositorio Público en GitHub - Atmos Clima M7](https://www.google.com/search?q=https://github.com/the-spell-of-mathematics/weather-frontend-m7)
+
+---
+
+Hecho con ☕︎ y ❤︎ por Anastasia 
+
+```
+
+```
