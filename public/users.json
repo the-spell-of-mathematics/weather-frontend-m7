@@ -1,0 +1,4 @@
+[
+    { "id": 101, "email": "demo@clima.cl", "password": "123", "name": "Usuario Demo", "preferences": { "unit": "C" }, "favorites": [1, 2] },
+    { "id": 102, "email": "ana@clima.cl", "password": "456", "name": "Ana", "preferences": { "unit": "F" }, "favorites": [4, 5] }
+]

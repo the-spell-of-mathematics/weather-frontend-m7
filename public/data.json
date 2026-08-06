@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1, "nombre": "San Pedro de Atacama", "tempActual": 28, "estadoActual": "Soleado", 
+        "icono": "https://emojicdn.elk.sh/☀️?style=apple",
+        "imagen": "https://images.unsplash.com/photo-1549467610-d73105ff5779?q=80&w=2000",
+        "pronosticoSemanal": [
+            { "dia": "Lunes", "min": 12, "max": 28, "estado": "Despejado" },
+            { "dia": "Martes", "min": 11, "max": 27, "estado": "Soleado" },
+            { "dia": "Miércoles", "min": 13, "max": 29, "estado": "Soleado" }
+        ]
+    },
+    {
+        "id": 2, "nombre": "Santiago", "tempActual": 22, "estadoActual": "Despejado", 
+        "icono": "https://emojicdn.elk.sh/🌤️?style=apple",
+        "imagen": "https://images.unsplash.com/photo-1587232230058-2926715fbcde?q=80&w=2000",
+        "pronosticoSemanal": [
+            { "dia": "Lunes", "min": 8, "max": 22, "estado": "Despejado" },
+            { "dia": "Martes", "min": 9, "max": 24, "estado": "Soleado" },
+            { "dia": "Miércoles", "min": 10, "max": 25, "estado": "Nubosidad parcial" }
+        ]
+    },
+    {
+        "id": 3, "nombre": "Valparaíso", "tempActual": 16, "estadoActual": "Nublado", 
+        "icono": "https://emojicdn.elk.sh/☁️?style=apple",
+        "imagen": "https://images.unsplash.com/photo-1596700683935-18151522f254?q=80&w=2000",
+        "pronosticoSemanal": [
+            { "dia": "Lunes", "min": 10, "max": 16, "estado": "Nublado" },
+            { "dia": "Martes", "min": 11, "max": 17, "estado": "Vaguada costera" },
+            { "dia": "Miércoles", "min": 9, "max": 15, "estado": "Llovizna" }
+        ]
+    },
+    {
+        "id": 4, "nombre": "Valdivia", "tempActual": 12, "estadoActual": "Lluvia", 
+        "icono": "https://emojicdn.elk.sh/🌧️?style=apple",
+        "imagen": "https://images.unsplash.com/photo-1518005020951-eccb494ad742?q=80&w=2000",
+        "pronosticoSemanal": [
+            { "dia": "Lunes", "min": 6, "max": 12, "estado": "Lluvia fuerte" },
+            { "dia": "Martes", "min": 5, "max": 13, "estado": "Chubascos" },
+            { "dia": "Miércoles", "min": 7, "max": 14, "estado": "Lluvia" }
+        ]
+    },
+    {
+        "id": 5, "nombre": "Punta Arenas", "tempActual": 5, "estadoActual": "Viento y Frío", 
+        "icono": "https://emojicdn.elk.sh/❄️?style=apple",
+        "imagen": "https://images.unsplash.com/photo-1534005814578-831b14ceab5b?q=80&w=2000",
+        "pronosticoSemanal": [
+            { "dia": "Lunes", "min": -2, "max": 5, "estado": "Viento" },
+            { "dia": "Martes", "min": -1, "max": 4, "estado": "Nevadas débiles" },
+            { "dia": "Miércoles", "min": -3, "max": 3, "estado": "Frío extremo" }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    color: #ffffff;
+    background-color: #000;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+/* Navbar de cristal */
+.navbar-glass { 
+    background: rgba(255, 255, 255, 0.85); 
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3); 
+}
+
+/* Letras blancas con delineado negro para máxima lectura sobre el mapa */
+.text-outline {
+    color: #ffffff;
+    text-shadow: 
+        -1px -1px 0 #000,  
+         1px -1px 0 #000,
+        -1px  1px 0 #000,
+         1px  1px 0 #000,
+         0px 3px 6px rgba(0,0,0,0.9);
+}
+
+/* Recuadro oscuro translúcido (inspirado en tu 1° imagen) */
+.dark-glass-box {
+    background: rgba(15, 23, 42, 0.75);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 28px;
+    padding: 40px;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+}
+
+/* Tarjetas individuales de ciudad (minimalistas oscuras, sin fondo blanco) */
+.weather-card-minimal {
+    background: rgba(15, 23, 42, 0.65);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 24px;
+    transition: all 0.3s ease;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+.weather-card-minimal:hover {
+    transform: translateY(-6px);
+    background: rgba(15, 23, 42, 0.85);
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+/* Botones en escala de grises / negros */
+.btn-custom { border-radius: 30px; font-weight: 600; letter-spacing: 0.5px; padding: 10px 24px; transition: all 0.2s; }
+.btn-primary-custom { background-color: #1c1c1e; border-color: #1c1c1e; color: white; }
+.btn-primary-custom:hover { background-color: #333333; color: white; transform: scale(1.02); }
+
+.search-glass { 
+    background: rgba(255, 255, 255, 0.95); 
+    border: none; 
+    border-radius: 30px; 
+    padding: 15px 25px; 
+    color: #1c1c1e; 
+    font-weight: 500; 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2); 
+}
+.search-glass:focus { background: #ffffff; outline: none; }
