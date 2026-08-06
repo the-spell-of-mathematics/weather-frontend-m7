@@ -48,20 +48,20 @@ Sigue estos pasos para clonar y ejecutar el entorno de desarrollo localmente:
    git clone [https://github.com/the-spell-of-mathematics/weather-frontend-m7.git](https://github.com/the-spell-of-mathematics/weather-frontend-m7.git)
 
 2. **Clonar el repositorio:** **Entrar a la carpeta del proyecto:**
-```bash
-cd weather-frontend-m7
+  ```bash
+  cd weather-frontend-m7
 
 ```
 3. **Instalar dependencias:**
-```bash
-npm install
+  ```bash
+  npm install
 
-```
+  ```
 4. **Ejecutar el servidor de desarrollo:**
-```bash
-npm run dev
+  ```bash
+  npm run dev
 
-```
+  ```
 
 
 
