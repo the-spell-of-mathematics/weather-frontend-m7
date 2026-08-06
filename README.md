@@ -46,8 +46,7 @@ Sigue estos pasos para clonar y ejecutar el entorno de desarrollo localmente:
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/the-spell-of-mathematics/weather-frontend-m7.git](https://github.com/the-spell-of-mathematics/weather-frontend-m7.git)
-``` 
-``` 
+
 2. **Clonar el repositorio:** **Entrar a la carpeta del proyecto:**
 ```bash
 cd weather-frontend-m7
