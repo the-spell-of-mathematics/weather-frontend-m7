@@ -49,7 +49,10 @@ Sigue estos pasos para clonar y ejecutar el entorno de desarrollo localmente:
 
 ```
 
-2. **Entrar a la carpeta del proyecto:**
+
+``` 
+
+2. **Clonar el repositorio:** **Entrar a la carpeta del proyecto:**
 ```bash
 cd weather-frontend-m7
 
