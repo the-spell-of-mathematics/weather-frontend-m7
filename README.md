@@ -59,8 +59,6 @@ Sigue estos pasos para clonar y ejecutar el entorno de desarrollo localmente:
     ```bash
     npm run dev
 
-
-
 > **Credenciales de prueba para el Login:**
 > * Correo: `demo@clima.cl`
 > * Contraseña: `123`
@@ -72,7 +70,7 @@ Sigue estos pasos para clonar y ejecutar el entorno de desarrollo localmente:
 ### Enlace al Repositorio
 
 Puedes revisar el código fuente completo, la estructura de componentes y el historial de commits detallados en el siguiente enlace:
-👉 [Repositorio Público en GitHub - Atmos Clima M7](https://www.google.com/search?q=https://github.com/the-spell-of-mathematics/weather-frontend-m7)
+↪ [Repositorio Público en GitHub - Atmos ](https://www.google.com/search?q=https://github.com/the-spell-of-mathematics/weather-frontend-m7)
 
 ---
 
